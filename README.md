@@ -67,4 +67,10 @@ This redesign is more than a technical fix — it is a **strategic enabler for l
 
 ---
 
-## 📂 Repository Structure
+## 👤 Author
+**Abhishek Rawal**  
+Master’s in Engineering Management (Data Analytics & Product Strategy)  
+University of Massachusetts Amherst  
+🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/AbhishekRaw718)  
+
+---
