@@ -5,6 +5,7 @@ This project focuses on redesigning **Enterprise Car Rentals’ booking system**
 ➡️ Customers receive a confirmed reservation but, upon arrival, are told that **no vehicle is available**.  
 
 This creates wasted time, broken trust, and long-term customer churn. The proposed **Enterprise Booking Feedback Loop** introduces a **closed-loop, feedback-driven system** to ensure that every confirmed booking equals a guaranteed car.  
+**Figma Prototype:** [View Here](https://www.figma.com/make/XexAuXfLaQ4Tck7QzW5hm7/User-Flow-Analysis?node-id=0-4&t=XSf9guNVpOqP25rq-1)  
 
 ---
 
